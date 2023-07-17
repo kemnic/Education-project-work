@@ -1,6 +1,6 @@
 # Education-project-work
 Problem: Education Inaccessibility for the Deaf
-The problem of education inaccessibility for the deaf refers to the significant challenges and barriers that deaf individuals encounter in accessing quality education on an equal basis with their hearing peers. This problem arises due to a variety of factors, including communication barriers, lack of appropriate resources and accommodations, and limited access to qualified instructors.
+Education inaccessibility to the deaf refers to a difficulty in access quality education to people who dont hear. the deaf faced difficulties in understanding educational knowledge that can help them become somthing in the future.
 
 Sub-Problems:
 
